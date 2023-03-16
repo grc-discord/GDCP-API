@@ -1,5 +1,6 @@
 # Editor directories and files
 .vscode/*
+.idea
 
 # OS generated files
 .DS_Store
