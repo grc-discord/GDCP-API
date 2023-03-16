@@ -1,6 +1,13 @@
 # Editor directories and files
 .vscode/*
-.idea
+/.idea/**
+/.out/**
+/.vscode/
+/src/__pycache__/**
+/venv/
+__pycache__/
+.env
+
 
 # OS generated files
 .DS_Store
